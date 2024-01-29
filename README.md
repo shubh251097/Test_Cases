@@ -1,1 +1,1 @@
-# This repository contains Gmail Account Registration test cases,Instagram Post Creation test cases,Open Cart Application Login test cases.
+# This repository contains Gmail Account Registration test cases, Instagram Post Creation test cases, and Open Cart Registration Page test cases.
